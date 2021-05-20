@@ -10,7 +10,7 @@
    <Creatives>
     <Creative id="57861016576" sequence="1">
      <UniversalAdId idRegistry="GDFP" idValue="57861016576">57861016576</UniversalAdId>
-     <Linear>
+     <Linear skipoffset="00:00:05">
       <Duration>00:00:10</Duration>
       <TrackingEvents>
        <Tracking event="start"><![CDATA[https://pubads.g.doubleclick.net/pagead/interaction/?ai=BqFNFpiCmYOaXIInU9gW6l67IDdiuj-sGAAAAEAEgqN27JjgAWICYpMbXAWDZArIBE2dvb2dsZWFkcy5naXRodWIuaW-6AQo3Mjh4OTBfeG1syAEF2gE0aHR0cHM6Ly9nb29nbGVhZHMuZ2l0aHViLmlvL2dvb2dsZWFkcy1pbWEtaHRtbDUvdnNpL8ACAuACAOoCIy8xMjQzMTkwOTYvZXh0ZXJuYWwvYWRfcnVsZV9zYW1wbGVz-AKD0h6AAwGQA7AJmAOsAqgDAeAEAdIFBhDw2LPSApAGAaAGI6gH7NUbqAfz0RuoB5bYG9gHAeAHC9IIBwiAYRABGB3YCAKACgWYCwHQFQGAFwE&sigh=wODRbwNTC0w&label=part2viewed&ad_mt=[AD_MT]&acvw=[VIEWABILITY]&gv=[GOOGLE_VIEWABILITY]]]></Tracking>
